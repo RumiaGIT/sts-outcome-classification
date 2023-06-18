@@ -1,0 +1,5 @@
+data/combined
+data/full
+data/raw
+.ipynb_checkpoints
+__pycache__/
