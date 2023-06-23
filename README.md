@@ -13,6 +13,6 @@ Example:
 /data:                              Datasets used during the project.
 /images:                            Images used during the project.
 README.md:                          You're reading it.
-example.png:                        Example image to show utilization of the model.
-sts_outcome_classification.ipynb:   The finalized code for usage of the model and labelling of data.
+example.png:                        Example image to show utilization of a model.
+sts_outcome_classification.ipynb:   All data understanding, preparation, and modelling for this project.
 ~~~
